@@ -1,9 +1,9 @@
 {
-  "name": "PicBed4MWeb",
+  "name": "picbed",
   "version": "1.0.0",
   "description": "Github image hosting api for MWeb",
   "main": "api/index.js",
-  "author": "hans362",
+  "author": "teasiu",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
