@@ -1,0 +1,16 @@
+{
+  "name": "PicBed4MWeb",
+  "version": "1.0.0",
+  "description": "Github image hosting api for MWeb",
+  "main": "api/index.js",
+  "author": "hans362",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "formidable": "^1.1.1",
+    "gulp": "^4.0.2",
+    "gulp-connect": "^5.7.0",
+    "log4js": "^6.3.0",
+    "moment": "^2.24.0"
+  }
+}
