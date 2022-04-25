@@ -6,7 +6,7 @@
   "author": "teasiu",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.26.1",
+    "axios": "^0.27.0",
     "formidable": "^1.1.1",
     "gulp": "^4.0.2",
     "gulp-connect": "^5.7.0",
